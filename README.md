@@ -6,4 +6,6 @@ second go at branching and merging
 3rd time is a charme 
 think i'm getting it 
 or am i ?
+ push-or-pull
+this will be intresting push or pull 
 lets see if i can pull this 
